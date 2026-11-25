@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Misbah Ul Haque — applied machine learning and software engineering">
+  <img src="assets/hero-light.svg" width="100%" alt="Misbah Ul Haque — AI Engineer | Developing Intelligent Systems at the Intersection of Data Science, Agentic AI &amp; Business Intelligence">
 </picture>
 
 # AI Engineer | Developing Intelligent Systems at the Intersection of Data Science, Agentic AI & Business Intelligence
