@@ -1,16 +1,21 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Misbah Ul Haque — applied machine learning and software engineering">
+</picture>
 
-<!--
-**misbahulhaque1/misbahulhaque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools for exploring data and finding research. I’m interested in how a model’s predictions can be explained and how people use them in software.
 
-Here are some ideas to get you started:
+## Selected engineering work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What to inspect |
+| --- | --- |
+| [CogniSight](https://github.com/misbahulhaque1/CogniSight-Streamlit-Student-Performance-Analyzer) | A Streamlit student-performance classifier. The project compares nearest neighbors, decision trees and random forests across 19 educational and behavioral features. |
+| [AI Research Paper Hub](https://github.com/misbahulhaque1/AI-RESEARCH-PAPER-HUB/tree/main/rpp_fixed) | A research discovery application with a React interface, OpenAlex ingestion and separate search, recommendation and summary services. |
+
+## Research and engineering interests
+
+Explainable classification · AI for cybersecurity · Document intelligence · Information retrieval
+
+[Public projects and contribution activity](https://github.com/misbahulhaque1?tab=overview) · [Research Hub discussions and feedback via issues](https://github.com/misbahulhaque1/AI-RESEARCH-PAPER-HUB/issues)
+
+[Connect on LinkedIn](https://www.linkedin.com/in/misbahulhaque001/)
