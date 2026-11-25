@@ -3,6 +3,8 @@
   <img src="assets/hero-light.svg" width="100%" alt="Misbah Ul Haque — applied machine learning and software engineering">
 </picture>
 
+**AI Engineer | Developing Intelligent Systems at the Intersection of Data Science, Agentic AI & Business Intelligence**
+
 I build tools for exploring data and finding research. I’m interested in how a model’s predictions can be explained and how people use them in software.
 
 ## Selected engineering work
