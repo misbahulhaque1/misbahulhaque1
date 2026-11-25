@@ -11,7 +11,7 @@ I build tools for exploring data and finding research. I’m interested in how a
 
 | Project | What to inspect |
 | --- | --- |
-| [CogniSight](https://github.com/misbahulhaque1/CogniSight-Streamlit-Student-Performance-Analyzer) | A Streamlit student-performance classifier. The project compares nearest neighbors, decision trees and random forests across 19 educational and behavioral features. |
+| [CogniSight](https://github.com/misbahulhaque1/CogniSight-Streamlit-Student-Performance-Analyzer) | A Python and Streamlit application that uses a scikit-learn random forest to classify student performance as High, Medium, or Low from 13 numeric inputs. |
 | [AI Research Paper Hub](https://github.com/misbahulhaque1/AI-RESEARCH-PAPER-HUB/tree/main/rpp_fixed) | A research discovery application with a React interface, OpenAlex ingestion and separate search, recommendation and summary services. |
 
 ## Research and engineering interests
