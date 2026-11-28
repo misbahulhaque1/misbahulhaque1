@@ -11,6 +11,7 @@ I build tools for exploring data and finding research. I’m interested in how a
 
 | Project | What to inspect |
 | --- | --- |
+| [CYBEANARO Intelligence](https://github.com/misbahulhaque1/CYBEANARO-Intelligence) | See why a model flagged a network flow and how an analyst can review it. [Watch the 72-second demo on LinkedIn](https://lnkd.in/p/djs3KEy4). |
 | [CogniSight](https://github.com/misbahulhaque1/CogniSight-Streamlit-Student-Performance-Analyzer) | A Python and Streamlit application that uses a scikit-learn random forest to classify student performance as High, Medium, or Low from 13 numeric inputs. |
 | [AI Research Paper Hub](https://github.com/misbahulhaque1/AI-RESEARCH-PAPER-HUB/tree/main/rpp_fixed) | A research discovery application with a React interface, OpenAlex ingestion and separate search, recommendation and summary services. |
 
